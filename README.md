@@ -92,9 +92,3 @@ React frontend will be running at `http://localhost:3000`.
 
 - The backend will handle API requests, while the frontend will interact with these APIs to display data.
 - Once both the backend and frontend are running, you can start managing projects through the system.
-
-## Contributing
-
-I would appreciate any feedback on this assessment! Feel free to share your thoughts or suggestions for improvement.
-
-Thank you!
